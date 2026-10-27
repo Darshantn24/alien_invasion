@@ -11,3 +11,13 @@ venv/
 
 # Environment variables and secrets
 .env
+
+
+# VS Code project settings
+.vscode/
+
+# Windows thumbnail and folder caches
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
